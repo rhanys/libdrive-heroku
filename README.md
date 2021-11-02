@@ -4,8 +4,7 @@
   </h3>
 </a>
 <p align="center">
-  <a href="https://github.com/libDrive/libDrive/releases">
-    <img src="https://img.shields.io/github/downloads/libDrive/libDrive/total?color=%234197fe&style=for-the-badge" />
+  
   </a>
   <a href="https://github.com/libDrive/libDrive/releases/latest">
     <img src="https://img.shields.io/github/v/release/libDrive/libDrive?color=%234197fe&style=for-the-badge" />
@@ -16,20 +15,16 @@
     <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200" />
   </a>
 </p>
-<p align="center">
-  <a href="https://t.me/libdrive_support">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/42px-Telegram_logo.svg.png" width="42" />
-  </a>
+
 </p>
 
-# What is this repo?
+# O que é esse Repositório?
 
-libDrive is a Google Drive media library manager and indexer, similar to Plex, that organizes Google Drive media to offer an intuitive and user-friendly experience.
+libDrive é um gerenciador e indexador de biblioteca de mídia do Google Drive, semelhante ao Plex, que organiza a mídia do Google Drive para oferecer uma experiência intuitiva e amigável.
 
-I decided to create this project to, of course, organize my Google Drive library, but also develop my coding skills, and learn JavaScript in the process.
+Esse projeto foi criado e depois abandonado por @eliasbenb, então decidi continuar o projeto para não ser esquecido..
 
-This repository (<https://github.com/libDrive/heroku>) stores the source code for the [Heroku](https://heroku.com) deployment of libDrive.
-
+Este repositório (<https://github.com/samucamg/libdrive-heroku>) armazena o código-fonte para a implantação [Heroku] (https://heroku.com) de libDrive.
 ## Source code
 
 - [libDrive/libDrive](https://github.com/libDrive/libDrive)
